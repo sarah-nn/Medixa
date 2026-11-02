@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909182778800",
+    "project_id": "medixa-68af0",
+    "storage_bucket": "medixa-68af0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909182778800:android:ecbc6ebe8d65f6ae93aa75",
+        "android_client_info": {
+          "package_name": "com.example.medixa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB34b1U8Kc6nvaxrOvivUughdXhE-WWAK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
